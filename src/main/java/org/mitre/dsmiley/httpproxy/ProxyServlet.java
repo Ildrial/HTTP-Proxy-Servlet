@@ -66,7 +66,6 @@ import java.util.List;
  */
 @SuppressWarnings({ "deprecation", "serial" })
 public class ProxyServlet extends HttpServlet {
-// TODO just some shit comment
   /* INIT PARAMETER NAME CONSTANTS */
 
   /** A boolean parameter name to enable logging of input and target URLs to the servlet log. */
